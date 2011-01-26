@@ -1,0 +1,4 @@
+{
+:class_methods{I"Ircbot:EF[I"new;F:instance_methods{I"Ircbot;F[I"capture;FI"capture_msg;FI"capture_with_pattern;FI"	chan;FI"connect;FI"key;FI"	mode;FI"	nick;FI"	ping;FI"	port;FI"	quit;FI"send_msg;FI"send_s;FI"server;FI"
+topic;F:attributes{I"Ircbot;F[
+I"attr_reader chan;FI"attr_reader key;FI"attr_reader nick;FI"attr_reader port;FI"attr_reader server;F:modules[I"Ircbot;F:ancestors{I"Ircbot;F[I"Object;F
