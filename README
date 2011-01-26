@@ -1,0 +1,7 @@
+LibIRCBot.rb ( nom temporaire ) est une librairie Ruby pour créer des
+Bot IRC simplement, rapidement tout en restant permissif.
+
+----- File :
+--> libircbot.rb : The library itself.
+--> tmp.rb       : A little exemple of Bot.
+---> [ Doc ]     : The RDOC directory.
